@@ -1,0 +1,1 @@
+Android Application that demonstrates the activity life cycle and fragments. The main activity should have two fragments. The top fragment contains a list view control whose items are the names of two other activities, AIActivity and VRActivity. The bottom fragment uses a text view control to display the list of life cycle methods that take place when the main activity starts. 

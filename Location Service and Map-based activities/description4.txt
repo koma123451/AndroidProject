@@ -1,0 +1,3 @@
+allows users to locate various restaurants in the city of Toronto. Your interface should display a list of available restaurants and their address.
+
+The application display the map and satellite map of the restaurant whenever the user selects the name on the list.

@@ -1,0 +1,1 @@
+Android application that allows the nurses to keep track of various tests performed daily on patients in a hospital. used by nurses in hospitals or by testing centers. Use Room persistence library and MVVM patternto create and manipulate the application's database. 

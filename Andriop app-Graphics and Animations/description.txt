@@ -1,0 +1,5 @@
+exercise1 :allows the user to draw continuous horizontal or vertical lines, starting from a given position, using the up, down, left, and right keys of the Android keypad as well as image buttons in UI, as shown in the picture below. Use a Canvas object to implement the drawings.
+
+erercise2:develop a frame-by-frame animation. Create a series of pictures that differ slightly from each other.
+
+exercise3:create a tweened animation similar to TweenActivity,Create an application to simulate an earth view. Display a png image of the earth and the moon image slightly above the earth's image. Apply the necessary transformations (rotate, scale, translate) to make the moon revolve nicely around the earth. Define tweening transformations as XML resource files. Allow the user to start and stop the animation.

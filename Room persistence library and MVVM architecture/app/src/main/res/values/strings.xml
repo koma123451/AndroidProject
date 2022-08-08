@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Group 1 Bowen and Komal</string>
+    <string name="app_title">Toronto Restaurants</string>
+    <string name="app_logo">app_logo</string>
+    <string name="recycler_item_type_text">recycler item type text</string>
+
+    <string-array name="landmark_types">
+        <item>Indian</item>
+        <item>Korean</item>
+        <item>Mexican</item>
+        <item>Brazilian</item>
+        <item>Thai</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="landmark_names">
+        <!--  Landmark name # address # city # Province # postal # country # latitude # longitude # type-->
+        <item>PAI Uptown                        # 2335 Yonge Street, Toronto, ON, M4P 2E6           # 43.706853  # -79.3982462  #Thai</item>
+        <item>Thai Express                      # 1881 Yonge Street, Toronto, ON, M4S 3C4,          # 43.6975638 # -79.3962727  #Thai</item>
+        <item>The Host                          # 670 Hwy 7, Richmond Hill, ON L4B 3P2              # 43.846859806890606 # -79.37915345783877  #Indian</item>
+        <item>Babu Takeout And Catering         # 4800 Sheppard Ave E, Toronto, ON M1S 4N5          # 43.792070226273374 # -79.25112035539287  #Indian</item>
+        <item>The Owl Of Minerva                #  3229 Hwy 7 #7b, Markham, ON L3R 3P3              # 43.85913800591186 # -79.34706265013972   #Korean</item>
+        <item>Simply Kitchen                    # 26 Lee Centre Dr, Scarborough, ON M1H 3J1         # 43.78117661604282 # -79.24732781360635  #Korean</item>
+
+        <item>Sushi Legend Scarborough          # 175 Commander Blvd unit 2, Scarborough, ON M1S 3M7         # 43.79676993698428 # -79.26998343080042  #Japanese</item>
+        <item>Ichiban Asian All You Can Eat     # 5095 Yonge St Suite A9A, North York, ON M2N 6Z4            # 43.77076494858122 # -79.41085604828255  #Japanese</item>
+        <item>Touro                             # 125 York Blvd, Richmond Hill, ON L4B 3B4                   # 43.85750631245052 # -79.37052298172921  #Brazilian</item>
+        <item>Copacabana Brazilian Steakhouse   # 205 Marycroft Ave, Woodbridge, ON L4L 5X8                  # 43.80137186725301 # -79.57243404816282  #Brazilian</item>
+        <item>liuyishou Hot Pot                 # 4188 Finch Ave E Unit 14 15, Scarborough, ON M1S 4T6       # 43.80686007432569 # -79.2872248720121   #Chinese</item>
+        <item>Yong He All Day Breakfast         # 7051 Kennedy Rd, Markham, ON L3R 0N8                       # 43.82604608619479 # -79.30743725593335  #Chinese</item>
+        <item>El Sazon Mexicano                 # 1284 Saint Clair Avenue West, Toronto, ON, M6E 1C1 # 43.6771597 # -79.4477442  #Mexican</item>
+        <item>Taco Bell                         # 2300 Yonge Street, Toronto, ON, M4P 1E4, Canada            # 43.7072693 # -79.3996009  #Mexican</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
